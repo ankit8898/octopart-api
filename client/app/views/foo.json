@@ -1,0 +1,8285 @@
+[
+{
+hits: 225,
+stats_results: { },
+facet_results: {
+fields: { },
+queries: { }
+},
+msec: 670,
+request: {
+q: "ne555",
+start: 0,
+limit: 10,
+sortby: "score desc",
+stats: { },
+filter: {
+fields: { },
+queries: [ ]
+},
+facet: {
+fields: { },
+queries: [ ]
+},
+__class__: "SearchRequest"
+},
+__class__: "SearchResponse",
+spec_metadata: { },
+results: [
+{
+snippet: "<strong>ne555</strong> ic 555 timer dip-8",
+item: {
+offers: [
+{
+sku: "60K6706",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-13T16:06:00Z",
+order_multiple: null,
+in_stock_quantity: 3350,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Newark",
+__class__: "Seller",
+homepage_url: "http://www.newark.com",
+uid: "d294179ef2900153"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0d1ae50&vpid=118767990",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.45400"
+],
+[
+10,
+"0.30700"
+],
+[
+100,
+"0.16600"
+],
+[
+1000,
+"0.12500"
+],
+[
+5000,
+"0.11400"
+],
+[
+10000,
+"0.10100"
+],
+[
+25000,
+"0.09400"
+],
+[
+50000,
+"0.09300"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-1411-5-ND",
+packaging: "Tube",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 24812,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0fdb7dd&vpid=188085830",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+1,
+"0.49000"
+],
+[
+10,
+"0.38300"
+],
+[
+25,
+"0.32240"
+],
+[
+100,
+"0.26250"
+],
+[
+250,
+"0.21752"
+],
+[
+500,
+"0.18000"
+],
+[
+750,
+"0.15000"
+],
+[
+1000,
+"0.13500"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T21:20:00Z",
+order_multiple: 50,
+in_stock_quantity: 27986,
+eligible_region: null,
+moq: 50,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Arrow",
+__class__: "Seller",
+homepage_url: "http://www.arrownac.com/",
+uid: "9d5b5851b06f4e9c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0702edc&vpid=188037606",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+50,
+"0.14040"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T07:28:15Z",
+order_multiple: null,
+in_stock_quantity: 31693,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Rochester Electronics",
+__class__: "Seller",
+homepage_url: "http://www.rocelec.com/",
+uid: "a66d636799c375aa"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=01fe0e8&vpid=188240698",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.34000"
+],
+[
+25,
+"0.34000"
+],
+[
+100,
+"0.28000"
+],
+[
+500,
+"0.28000"
+],
+[
+1000,
+"0.23000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "9589899",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T12:43:35Z",
+order_multiple: null,
+in_stock_quantity: 45449,
+eligible_region: "GB",
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "Farnell",
+__class__: "Seller",
+homepage_url: "http://www.farnell.com/",
+uid: "58989d9272cd8b5f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0600f04&vpid=139745181",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+GBP: [
+[
+1,
+"0.22200"
+],
+[
+10,
+"0.21200"
+],
+[
+25,
+"0.20900"
+],
+[
+50,
+"0.20700"
+],
+[
+100,
+"0.09860"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:50:40Z",
+order_multiple: 1,
+in_stock_quantity: 4176,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Avnet Express",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com",
+uid: "c1e404eefe3c1223"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=033feb2&vpid=187946024",
+factory_order_multiple: null,
+factory_lead_days: 6,
+prices: {
+USD: [
+[
+1,
+"0.39250"
+],
+[
+10,
+"0.22430"
+],
+[
+50,
+"0.16390"
+],
+[
+100,
+"0.14930"
+],
+[
+500,
+"0.13370"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "595-NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:33:34Z",
+order_multiple: null,
+in_stock_quantity: 16948,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Mouser",
+__class__: "Seller",
+homepage_url: "http://www.mouser.com",
+uid: "a5e060ea85e77627"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0920eb8&vpid=187876465",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.49000"
+],
+[
+10,
+"0.33200"
+],
+[
+100,
+"0.15500"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T23:16:28Z",
+order_multiple: 50,
+in_stock_quantity: 48267,
+eligible_region: null,
+moq: 700,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "EU",
+has_ecommerce: true,
+name: "Avnet Express Europe",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com/store/em/EMController?storeId=500201&action=home&region=EMEA&catalogId=500201&langId=-1",
+uid: "a7c762cdb2197400"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0da20d0&vpid=187575286",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+EUR: [
+[
+700,
+"0.12460"
+],
+[
+4400,
+"0.09710"
+],
+[
+8800,
+"0.08280"
+],
+[
+17550,
+"0.07710"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "210856",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-30T07:20:40Z",
+order_multiple: null,
+in_stock_quantity: 11683,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "RU",
+has_ecommerce: true,
+name: "DKO Electronshik",
+__class__: "Seller",
+homepage_url: "http://www.compel.ru/",
+uid: "496d8c67224a9aaa"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0a60b80&vpid=178210489",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+RUB: [
+[
+1,
+"31.69880"
+],
+[
+160,
+"13.54120"
+]
+],
+USD: [
+[
+1,
+"0.46280"
+],
+[
+160,
+"0.19770"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "9589899",
+packaging: "Bulk",
+on_order_eta: null,
+last_updated: "2015-02-26T15:33:10Z",
+order_multiple: null,
+in_stock_quantity: 13532,
+eligible_region: "SG",
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "SG",
+has_ecommerce: true,
+name: "element14 APAC",
+__class__: "Seller",
+homepage_url: "http://www.element14.com/",
+uid: "cdc808c2c94e1e0f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0065a69&vpid=188323680",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+SGD: [
+[
+1,
+"0.70100"
+],
+[
+10,
+"0.54800"
+],
+[
+25,
+"0.46100"
+],
+[
+100,
+"0.37500"
+],
+[
+250,
+"0.31100"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "TI01-0205932",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T12:51:40Z",
+order_multiple: null,
+in_stock_quantity: 13236,
+eligible_region: null,
+moq: 50,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "JP",
+has_ecommerce: true,
+name: "Chip One Stop",
+__class__: "Seller",
+homepage_url: "http://chip1stop.com/",
+uid: "6ffbaaf17255bc3c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0da22e3&vpid=116156931",
+factory_order_multiple: null,
+factory_lead_days: 3,
+prices: {
+USD: [
+[
+50,
+"0.24500"
+],
+[
+100,
+"0.23800"
+],
+[
+500,
+"0.17400"
+],
+[
+1000,
+"0.17300"
+],
+[
+2000,
+"0.15200"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T09:30:12Z",
+order_multiple: 50,
+in_stock_quantity: 2000,
+eligible_region: null,
+moq: 50,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "SG",
+has_ecommerce: true,
+name: "Avnet Express Asia",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com/store/em/EMController?langId=-1&storeId=500201&catalogId=500201&action=home",
+uid: "547e91744a7e87b9"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0d15f8d&vpid=187377236",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+50,
+"0.15000"
+],
+[
+250,
+"0.13640"
+],
+[
+500,
+"0.12500"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-15T17:41:39Z",
+order_multiple: null,
+in_stock_quantity: 10000,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Verical",
+__class__: "Seller",
+homepage_url: "http://www.verical.com",
+uid: "3c6cf966007befab"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=034d7c9&vpid=116162734",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+3350,
+"0.10000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T18:25:31Z",
+order_multiple: null,
+in_stock_quantity: 1154,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Freelance Electronics",
+__class__: "Seller",
+homepage_url: "http://rcfreelance.com/",
+uid: "029cc79618fcd15b"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0ff4c46&vpid=165655196",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.12000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-05T17:59:30Z",
+order_multiple: null,
+in_stock_quantity: 169,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Angenic",
+__class__: "Seller",
+homepage_url: "http://angenic.com/Home.awp",
+uid: "2071e57b532cf3b6"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=08c301d&vpid=175464601",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "904085",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-23T19:34:36Z",
+order_multiple: null,
+in_stock_quantity: 804,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Jameco",
+__class__: "Seller",
+homepage_url: "http://www.jameco.com",
+uid: "bab57fbf9ab96972"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0afc1ac&vpid=187424703",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.39000"
+],
+[
+10,
+"0.35000"
+],
+[
+100,
+"0.25000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T18:59:58Z",
+order_multiple: null,
+in_stock_quantity: 69,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Nexus Electronics",
+__class__: "Seller",
+homepage_url: "http://nexelec.com",
+uid: "e574207e873f36b3"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=046b56b&vpid=189078585",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.51000"
+],
+[
+10,
+"0.51000"
+],
+[
+25,
+"0.51000"
+],
+[
+50,
+"0.40800"
+],
+[
+100,
+"0.35700"
+],
+[
+250,
+"0.35700"
+],
+[
+500,
+"0.30600"
+],
+[
+1000,
+"0.28050"
+],
+[
+5000,
+"0.25500"
+],
+[
+10000,
+"0.25500"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T17:12:34Z",
+order_multiple: null,
+in_stock_quantity: 25,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Quest",
+__class__: "Seller",
+homepage_url: "http://www.questcomp.com",
+uid: "b29977939293615e"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0486f75&vpid=131685958",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"1.50000"
+],
+[
+4,
+"1.20000"
+],
+[
+18,
+"0.75000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T06:16:09Z",
+order_multiple: 1,
+in_stock_quantity: 3981,
+eligible_region: null,
+moq: 5,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "PL",
+has_ecommerce: true,
+name: "TME",
+__class__: "Seller",
+homepage_url: "http://www.tme.eu/en/",
+uid: "223ee7340ea4f1f9"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=047d2db&vpid=187862324",
+factory_order_multiple: null,
+factory_lead_days: 35,
+prices: {
+USD: [
+[
+5,
+"0.13600"
+],
+[
+25,
+"0.12800"
+],
+[
+100,
+"0.11300"
+],
+[
+500,
+"0.09600"
+],
+[
+2500,
+"0.08700"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T07:06:25Z",
+order_multiple: null,
+in_stock_quantity: 1150,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "CN",
+has_ecommerce: true,
+name: "Wuhan P&S",
+__class__: "Seller",
+homepage_url: "http://www.icbase.com",
+uid: "9cb259b88fac4f75"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0314f1d&vpid=156725484",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.14000"
+],
+[
+1000,
+"0.10000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "17304265",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T03:52:58Z",
+order_multiple: null,
+in_stock_quantity: 204,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "EU",
+has_ecommerce: true,
+name: "Distrelec",
+__class__: "Seller",
+homepage_url: "http://www.distrelec.com",
+uid: "7c7eb9746d2dafb9"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=049873c&vpid=188046341",
+factory_order_multiple: 1,
+factory_lead_days: 72,
+prices: {
+EUR: [
+[
+1,
+"0.30000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "2215535",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T09:32:55Z",
+order_multiple: null,
+in_stock_quantity: 36650,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "RS Components",
+__class__: "Seller",
+homepage_url: "http://www.rs-components.com",
+uid: "322cf7263c6ce1eb"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0cd873b&vpid=187476210",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-24T23:00:03Z",
+order_multiple: null,
+in_stock_quantity: 895,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=9247911&vpid=167182751",
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Electronic Expediters",
+__class__: "Seller",
+homepage_url: "http://www.expediters.com/",
+uid: "a83a6d3088d87bfd"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0f6ece0&vpid=167182751",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-21T13:23:42Z",
+order_multiple: null,
+in_stock_quantity: 525,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "LittleDiode",
+__class__: "Seller",
+homepage_url: "http://www.littlediode.com",
+uid: "1d4bd8411684ce8c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0e6cc5c&vpid=156013160",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "WI-546-22410",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T05:03:37Z",
+order_multiple: null,
+in_stock_quantity: 430,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "PriceLynx",
+__class__: "Seller",
+homepage_url: "http://www.pricelynx.com",
+uid: "e8582d52fb533b9f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0c092ea&vpid=165374145",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2014-07-31T17:50:52Z",
+order_multiple: null,
+in_stock_quantity: 37,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=9247911&vpid=131528223",
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "Ewing Components",
+__class__: "Seller",
+homepage_url: "http://ewinginc.com/",
+uid: "2f7aea702b4ffcbd"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=00af8a3&vpid=131528223",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-13T16:58:18Z",
+order_multiple: null,
+in_stock_quantity: 48,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "CA",
+has_ecommerce: false,
+name: "Component Electronics",
+__class__: "Seller",
+homepage_url: "http://www.componentonline.com",
+uid: "7c78b9721661afbf"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=06403ee&vpid=174947989",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T12:14:24Z",
+order_multiple: null,
+in_stock_quantity: 159,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "Area51-Recertified",
+__class__: "Seller",
+homepage_url: "http://www.area51recertified.com",
+uid: "fbba3eb0e72f287d"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0af83ca&vpid=189258828",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T17:57:56Z",
+order_multiple: null,
+in_stock_quantity: 15,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=9247911&vpid=187652339",
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "4 Star Electronics",
+__class__: "Seller",
+homepage_url: "http://www.4starelectronics.com/?utm_source=octopart&utm_medium=inventory&utm_campaign=Octopart",
+uid: "18c8ddc205e2cb0f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0909a6c&vpid=187652339",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-24T17:00:15Z",
+order_multiple: null,
+in_stock_quantity: 200,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=9247911&vpid=127791158",
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: false,
+name: "Cyclops Electronics",
+__class__: "Seller",
+homepage_url: "http://www.cyclops-electronics.com",
+uid: "6bd5aedf7d8db812"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=09e84e8&vpid=127791158",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-21T14:44:26Z",
+order_multiple: null,
+in_stock_quantity: 2,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "International Components Exchange",
+__class__: "Seller",
+homepage_url: "http://intlcompexchange.com/",
+uid: "841c4116f29857db"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=064c30f&vpid=180917023",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T21:20:55Z",
+order_multiple: null,
+in_stock_quantity: 16,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=9247911&vpid=188343584",
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "EarthTron",
+__class__: "Seller",
+homepage_url: "http://www.earthtron.com",
+uid: "0b64ce6e0a06d8a3"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0e58a18&vpid=188343584",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T08:25:01Z",
+order_multiple: null,
+in_stock_quantity: 3,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "Freedom EMG",
+__class__: "Seller",
+homepage_url: "http://www.freedomemg.com/",
+uid: "2368e6626a6ff0af"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0a78165&vpid=181001501",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-03T18:21:30Z",
+order_multiple: null,
+in_stock_quantity: 195,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: false,
+name: "Euro-Tech",
+__class__: "Seller",
+homepage_url: "http://www.eurotech.co.uk",
+uid: "1fdadad001abcc1d"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0a59231&vpid=136524766",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T14:08:56Z",
+order_multiple: null,
+in_stock_quantity: 200,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "Express Electronics",
+__class__: "Seller",
+homepage_url: "http://www.express-elect.com",
+uid: "0a94cf9e2a60d953"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=05e37cb&vpid=122177825",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T12:01:47Z",
+order_multiple: null,
+in_stock_quantity: 1,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=9247911&vpid=136512292",
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Voyager Components",
+__class__: "Seller",
+homepage_url: "http://www.voyagercomponents.com",
+uid: "8660436aa67e55a7"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=07e1afe&vpid=136512292",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T14:37:31Z",
+order_multiple: null,
+in_stock_quantity: 245,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "AED Electronics",
+__class__: "Seller",
+homepage_url: "http://www.aedelectronics.com",
+uid: "f0283522f1e123ef"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=01c0823&vpid=187540233",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555P",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-16T13:47:59Z",
+order_multiple: null,
+in_stock_quantity: 5670,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=9247911&vpid=137942636",
+__class__: "PartOffer",
+seller: {
+display_flag: "IL",
+has_ecommerce: false,
+name: "GreenTree Electronics",
+__class__: "Seller",
+homepage_url: "http://www.gtelec.com/",
+uid: "7662b368101fa5a5"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=04c672a&vpid=137942636",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+}
+],
+uid: "b47a7dfd8dbb6bbd",
+uid_v2: 924791113595,
+mpn: "NE555P",
+brand: {
+homepage_url: "http://ti.com",
+__class__: "Brand",
+name: "Texas Instruments",
+uid: "2239e3330e2df5fe"
+},
+octopart_url: "http://octopart.com/ne555p-texas+instruments-9247911",
+__class__: "Part",
+manufacturer: {
+homepage_url: "http://ti.com",
+__class__: "Manufacturer",
+name: "Texas Instruments",
+uid: "40f985f368ed933e"
+}
+},
+__class__: "SearchResult"
+},
+{
+snippet: "<strong>ne555</strong> timer ic - smd - soic-8",
+item: {
+offers: [
+{
+sku: "08F2512",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-13T16:06:00Z",
+order_multiple: null,
+in_stock_quantity: 773,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Newark",
+__class__: "Seller",
+homepage_url: "http://www.newark.com",
+uid: "d294179ef2900153"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0229da0&vpid=2897704",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.40600"
+],
+[
+10,
+"0.27400"
+],
+[
+100,
+"0.14800"
+],
+[
+1000,
+"0.11200"
+],
+[
+5000,
+"0.10200"
+],
+[
+10000,
+"0.09000"
+],
+[
+25000,
+"0.08400"
+],
+[
+50000,
+"0.08300"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:50:40Z",
+order_multiple: 1,
+in_stock_quantity: 6610,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Avnet Express",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com",
+uid: "c1e404eefe3c1223"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0076990&vpid=17669309",
+factory_order_multiple: null,
+factory_lead_days: 6,
+prices: {
+USD: [
+[
+1,
+"0.35770"
+],
+[
+10,
+"0.20290"
+],
+[
+50,
+"0.14700"
+],
+[
+100,
+"0.13320"
+],
+[
+500,
+"0.11900"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T23:16:28Z",
+order_multiple: 75,
+in_stock_quantity: 41499,
+eligible_region: null,
+moq: 1125,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "EU",
+has_ecommerce: true,
+name: "Avnet Express Europe",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com/store/em/EMController?storeId=500201&action=home&region=EMEA&catalogId=500201&langId=-1",
+uid: "a7c762cdb2197400"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0673d74&vpid=61590873",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+EUR: [
+[
+1125,
+"0.07820"
+],
+[
+6975,
+"0.06140"
+],
+[
+13875,
+"0.05230"
+],
+[
+27750,
+"0.04870"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T07:28:15Z",
+order_multiple: null,
+in_stock_quantity: 20992,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Rochester Electronics",
+__class__: "Seller",
+homepage_url: "http://www.rocelec.com/",
+uid: "a66d636799c375aa"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=01384fa&vpid=182227600",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.31000"
+],
+[
+25,
+"0.31000"
+],
+[
+100,
+"0.26000"
+],
+[
+500,
+"0.26000"
+],
+[
+1000,
+"0.21000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-16792-ND",
+packaging: "Tube",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 6331,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0532d3f&vpid=1316784",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+1,
+"0.44000"
+],
+[
+25,
+"0.28800"
+],
+[
+100,
+"0.23450"
+],
+[
+250,
+"0.19432"
+],
+[
+500,
+"0.16080"
+],
+[
+750,
+"0.13400"
+],
+[
+1000,
+"0.12060"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "595-NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:33:34Z",
+order_multiple: null,
+in_stock_quantity: 5897,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Mouser",
+__class__: "Seller",
+homepage_url: "http://www.mouser.com",
+uid: "a5e060ea85e77627"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=07a3e88&vpid=37630969",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.44000"
+],
+[
+10,
+"0.30000"
+],
+[
+100,
+"0.16100"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T21:20:00Z",
+order_multiple: 75,
+in_stock_quantity: 5334,
+eligible_region: null,
+moq: 75,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Arrow",
+__class__: "Seller",
+homepage_url: "http://www.arrownac.com/",
+uid: "9d5b5851b06f4e9c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0384b51&vpid=15359170",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+75,
+"0.12350"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "9589880",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T12:43:35Z",
+order_multiple: null,
+in_stock_quantity: 15079,
+eligible_region: "GB",
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "Farnell",
+__class__: "Seller",
+homepage_url: "http://www.farnell.com/",
+uid: "58989d9272cd8b5f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=011e07a&vpid=139745179",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+GBP: [
+[
+1,
+"0.16000"
+],
+[
+10,
+"0.11800"
+],
+[
+100,
+"0.10800"
+],
+[
+300,
+"0.09710"
+],
+[
+600,
+"0.08000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "9589880",
+packaging: "Bulk",
+on_order_eta: null,
+last_updated: "2015-02-26T15:33:10Z",
+order_multiple: null,
+in_stock_quantity: 3491,
+eligible_region: "SG",
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "SG",
+has_ecommerce: true,
+name: "element14 APAC",
+__class__: "Seller",
+homepage_url: "http://www.element14.com/",
+uid: "cdc808c2c94e1e0f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=06e52e2&vpid=132687453",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+SGD: [
+[
+1,
+"0.40000"
+],
+[
+5,
+"0.30000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "TI01-0007287",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T12:51:40Z",
+order_multiple: null,
+in_stock_quantity: 2227,
+eligible_region: null,
+moq: 25,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "JP",
+has_ecommerce: true,
+name: "Chip One Stop",
+__class__: "Seller",
+homepage_url: "http://chip1stop.com/",
+uid: "6ffbaaf17255bc3c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0377e46&vpid=47801871",
+factory_order_multiple: null,
+factory_lead_days: 4,
+prices: {
+USD: [
+[
+25,
+"0.22600"
+],
+[
+100,
+"0.20600"
+],
+[
+500,
+"0.12000"
+],
+[
+1000,
+"0.11600"
+],
+[
+2000,
+"0.11200"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T09:30:12Z",
+order_multiple: 75,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 3750,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "SG",
+has_ecommerce: true,
+name: "Avnet Express Asia",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com/store/em/EMController?langId=-1&storeId=500201&catalogId=500201&action=home",
+uid: "547e91744a7e87b9"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0252b30&vpid=52266588",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+3750,
+"0.11170"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-15T17:41:39Z",
+order_multiple: null,
+in_stock_quantity: 9975,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Verical",
+__class__: "Seller",
+homepage_url: "http://www.verical.com",
+uid: "3c6cf966007befab"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0187b4c&vpid=36150666",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+3750,
+"0.10000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T17:12:34Z",
+order_multiple: null,
+in_stock_quantity: 4393,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Quest",
+__class__: "Seller",
+homepage_url: "http://www.questcomp.com",
+uid: "b29977939293615e"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=049a65e&vpid=5055265",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"1.00000"
+],
+[
+6,
+"0.50000"
+],
+[
+21,
+"0.30000"
+],
+[
+168,
+"0.20000"
+],
+[
+2001,
+"0.15000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "16885",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-16T13:02:47Z",
+order_multiple: 1,
+in_stock_quantity: 1000,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Vetco",
+__class__: "Seller",
+homepage_url: "http://vetco.net",
+uid: "a8b76dbdbfc97b70"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0d38ad4&vpid=176943456",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.59000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-05T17:59:30Z",
+order_multiple: null,
+in_stock_quantity: 4,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Angenic",
+__class__: "Seller",
+homepage_url: "http://angenic.com/Home.awp",
+uid: "2071e57b532cf3b6"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=00b3bcd&vpid=175464600",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T18:59:58Z",
+order_multiple: null,
+in_stock_quantity: 77,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Nexus Electronics",
+__class__: "Seller",
+homepage_url: "http://nexelec.com",
+uid: "e574207e873f36b3"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=03b8d39&vpid=189078584",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.49000"
+],
+[
+10,
+"0.49000"
+],
+[
+25,
+"0.49000"
+],
+[
+50,
+"0.39200"
+],
+[
+100,
+"0.34300"
+],
+[
+250,
+"0.34300"
+],
+[
+500,
+"0.29400"
+],
+[
+1000,
+"0.24500"
+],
+[
+5000,
+"0.19600"
+],
+[
+10000,
+"0.19600"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T06:16:09Z",
+order_multiple: 1,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 5,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "PL",
+has_ecommerce: true,
+name: "TME",
+__class__: "Seller",
+homepage_url: "http://www.tme.eu/en/",
+uid: "223ee7340ea4f1f9"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=06430c1&vpid=103422841",
+factory_order_multiple: null,
+factory_lead_days: 14,
+prices: {
+USD: [
+[
+5,
+"0.11500"
+],
+[
+25,
+"0.09600"
+],
+[
+100,
+"0.08600"
+],
+[
+500,
+"0.07500"
+],
+[
+1500,
+"0.06700"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "17304208",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T03:52:58Z",
+order_multiple: null,
+in_stock_quantity: 10,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "EU",
+has_ecommerce: true,
+name: "Distrelec",
+__class__: "Seller",
+homepage_url: "http://www.distrelec.com",
+uid: "7c7eb9746d2dafb9"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=03f1979&vpid=177379108",
+factory_order_multiple: 1,
+factory_lead_days: 72,
+prices: {
+EUR: [
+[
+1,
+"0.30000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-24T23:00:03Z",
+order_multiple: null,
+in_stock_quantity: 3150,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=9337089&vpid=10282050",
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Electronic Expediters",
+__class__: "Seller",
+homepage_url: "http://www.expediters.com/",
+uid: "a83a6d3088d87bfd"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0199fc8&vpid=10282050",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "22101674",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T05:03:37Z",
+order_multiple: null,
+in_stock_quantity: 34,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "PriceLynx",
+__class__: "Seller",
+homepage_url: "http://www.pricelynx.com",
+uid: "e8582d52fb533b9f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0a7bcd3&vpid=54802828",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T15:13:33Z",
+order_multiple: null,
+in_stock_quantity: 67,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "EDX",
+__class__: "Seller",
+homepage_url: "http://www.edxelectronics.com/",
+uid: "ee682b62ce783daf"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=078c87b&vpid=20292219",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T17:55:22Z",
+order_multiple: null,
+in_stock_quantity: 675,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "NetSource Technology",
+__class__: "Seller",
+homepage_url: "http://www.nstechnology.com",
+uid: "a93a6c30b6097afd"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=079f9db&vpid=49958930",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T22:18:14Z",
+order_multiple: null,
+in_stock_quantity: 1881,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=9337089&vpid=45029776",
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "Component Sense 24",
+__class__: "Seller",
+homepage_url: "http://componentsense.com/",
+uid: "ee8f2b85f4693d48"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0bad877&vpid=45029776",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-21T13:23:42Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "LittleDiode",
+__class__: "Seller",
+homepage_url: "http://www.littlediode.com",
+uid: "1d4bd8411684ce8c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=00790d9&vpid=156013158",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-13T16:58:18Z",
+order_multiple: null,
+in_stock_quantity: 3,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "CA",
+has_ecommerce: false,
+name: "Component Electronics",
+__class__: "Seller",
+homepage_url: "http://www.componentonline.com",
+uid: "7c78b9721661afbf"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=01f244c&vpid=78009200",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-19T16:02:00Z",
+order_multiple: null,
+in_stock_quantity: 300,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "SIE",
+__class__: "Seller",
+homepage_url: "http://www.sie-usa.com",
+uid: "8385468f8ebe5042"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0396728&vpid=34937226",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T12:01:47Z",
+order_multiple: null,
+in_stock_quantity: 1190,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=9337089&vpid=7445249",
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Voyager Components",
+__class__: "Seller",
+homepage_url: "http://www.voyagercomponents.com",
+uid: "8660436aa67e55a7"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0065e16&vpid=7445249",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555D",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T14:08:56Z",
+order_multiple: null,
+in_stock_quantity: 8,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "Express Electronics",
+__class__: "Seller",
+homepage_url: "http://www.express-elect.com",
+uid: "0a94cf9e2a60d953"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=07fa6ed&vpid=163031686",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "785818",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T09:32:55Z",
+order_multiple: null,
+in_stock_quantity: 5236,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "RS Components",
+__class__: "Seller",
+homepage_url: "http://www.rs-components.com",
+uid: "322cf7263c6ce1eb"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0ab7a56&vpid=48633188",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+}
+],
+uid: "fc9d3519a0fa235a",
+uid_v2: 933708913288,
+mpn: "NE555D",
+brand: {
+homepage_url: "http://ti.com",
+__class__: "Brand",
+name: "Texas Instruments",
+uid: "2239e3330e2df5fe"
+},
+octopart_url: "http://octopart.com/ne555d-texas+instruments-9337089",
+__class__: "Part",
+manufacturer: {
+homepage_url: "http://ti.com",
+__class__: "Manufacturer",
+name: "Texas Instruments",
+uid: "40f985f368ed933e"
+}
+},
+__class__: "SearchResult"
+},
+{
+snippet: "Peripheral circuit; astable/monostable, timer; 500kHz;",
+item: {
+offers: [
+{
+sku: "09J4697",
+packaging: "Tape & Reel",
+on_order_eta: null,
+last_updated: "2015-02-13T16:06:00Z",
+order_multiple: null,
+in_stock_quantity: 5000,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Newark",
+__class__: "Seller",
+homepage_url: "http://www.newark.com",
+uid: "d294179ef2900153"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0b60399&vpid=2900656",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.08900"
+],
+[
+2500,
+"0.08900"
+],
+[
+10000,
+"0.08000"
+],
+[
+25000,
+"0.07500"
+],
+[
+50000,
+"0.06900"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "75C4440",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-13T16:06:00Z",
+order_multiple: null,
+in_stock_quantity: 4821,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Newark",
+__class__: "Seller",
+homepage_url: "http://www.newark.com",
+uid: "d294179ef2900153"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0af9099&vpid=3029782",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.50700"
+],
+[
+10,
+"0.29400"
+],
+[
+100,
+"0.13900"
+],
+[
+1000,
+"0.10700"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T07:28:15Z",
+order_multiple: null,
+in_stock_quantity: 812400,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Rochester Electronics",
+__class__: "Seller",
+homepage_url: "http://www.rocelec.com/",
+uid: "a66d636799c375aa"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=06d1643&vpid=182227602",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.25000"
+],
+[
+25,
+"0.25000"
+],
+[
+100,
+"0.21000"
+],
+[
+500,
+"0.21000"
+],
+[
+1000,
+"0.17000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:50:40Z",
+order_multiple: 2500,
+in_stock_quantity: 270000,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Avnet Express",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com",
+uid: "c1e404eefe3c1223"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=03a7e92&vpid=17673843",
+factory_order_multiple: null,
+factory_lead_days: 6,
+prices: {
+USD: [
+[
+2500,
+"0.09260"
+],
+[
+12500,
+"0.08420"
+],
+[
+25000,
+"0.08180"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-6501-1-ND",
+packaging: "Cut Tape",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 46496,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0e5d2db&vpid=1271548",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+1,
+"0.55000"
+],
+[
+10,
+"0.38600"
+],
+[
+25,
+"0.31760"
+],
+[
+100,
+"0.25370"
+],
+[
+250,
+"0.18480"
+],
+[
+500,
+"0.15008"
+],
+[
+750,
+"0.12712"
+],
+[
+1000,
+"0.11536"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-6501-6-ND",
+packaging: "Custom Reel",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 46496,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0eb27d6&vpid=1635108",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+1,
+"0.55000"
+],
+[
+10,
+"0.38600"
+],
+[
+25,
+"0.31760"
+],
+[
+100,
+"0.25370"
+],
+[
+250,
+"0.18480"
+],
+[
+500,
+"0.15008"
+],
+[
+750,
+"0.12712"
+],
+[
+1000,
+"0.11536"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-6501-2-ND",
+packaging: "Tape & Reel",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 40000,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=01d6b28&vpid=1570181",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+2500,
+"0.10080"
+],
+[
+5000,
+"0.09520"
+],
+[
+12500,
+"0.08680"
+],
+[
+25000,
+"0.08120"
+],
+[
+62500,
+"0.07280"
+],
+[
+125000,
+"0.07000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T21:20:00Z",
+order_multiple: 2500,
+in_stock_quantity: 82500,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Arrow",
+__class__: "Seller",
+homepage_url: "http://www.arrownac.com/",
+uid: "9d5b5851b06f4e9c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0ad3104&vpid=15362504",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+2500,
+"0.10480"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "595-NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:33:34Z",
+order_multiple: null,
+in_stock_quantity: 14768,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Mouser",
+__class__: "Seller",
+homepage_url: "http://www.mouser.com",
+uid: "a5e060ea85e77627"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0e56e96&vpid=37630968",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.54000"
+],
+[
+10,
+"0.31800"
+],
+[
+100,
+"0.15000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "196575",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-30T07:20:40Z",
+order_multiple: null,
+in_stock_quantity: 1124,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "RU",
+has_ecommerce: true,
+name: "DKO Electronshik",
+__class__: "Seller",
+homepage_url: "http://www.compel.ru/",
+uid: "496d8c67224a9aaa"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0bc66a0&vpid=178210488",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+RUB: [
+[
+1,
+"23.78100"
+],
+[
+160,
+"10.15760"
+]
+],
+USD: [
+[
+1,
+"0.34720"
+],
+[
+160,
+"0.14830"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T23:16:28Z",
+order_multiple: 2500,
+in_stock_quantity: 333333,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "EU",
+has_ecommerce: true,
+name: "Avnet Express Europe",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com/store/em/EMController?storeId=500201&action=home&region=EMEA&catalogId=500201&langId=-1",
+uid: "a7c762cdb2197400"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=078c771&vpid=61590875",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+EUR: [
+[
+2500,
+"0.07220"
+],
+[
+7500,
+"0.06140"
+],
+[
+15000,
+"0.05230"
+],
+[
+30000,
+"0.04870"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "7527482",
+packaging: "Cut Tape",
+on_order_eta: null,
+last_updated: "2015-02-26T15:33:10Z",
+order_multiple: null,
+in_stock_quantity: 10810,
+eligible_region: "SG",
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "SG",
+has_ecommerce: true,
+name: "element14 APAC",
+__class__: "Seller",
+homepage_url: "http://www.element14.com/",
+uid: "cdc808c2c94e1e0f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0498fad&vpid=132687454",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+SGD: [
+[
+1,
+"0.77200"
+],
+[
+10,
+"0.45500"
+],
+[
+100,
+"0.21400"
+],
+[
+1000,
+"0.16400"
+],
+[
+2500,
+"0.13700"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "2436598",
+packaging: "Tape & Reel",
+on_order_eta: null,
+last_updated: "2015-02-26T15:33:10Z",
+order_multiple: null,
+in_stock_quantity: 5000,
+eligible_region: "SG",
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "SG",
+has_ecommerce: true,
+name: "element14 APAC",
+__class__: "Seller",
+homepage_url: "http://www.element14.com/",
+uid: "cdc808c2c94e1e0f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0663785&vpid=164308667",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+SGD: [
+[
+2500,
+"0.13600"
+],
+[
+5000,
+"0.13400"
+],
+[
+7500,
+"0.13200"
+],
+[
+12500,
+"0.12300"
+],
+[
+25000,
+"0.11400"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "7527482",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T12:43:35Z",
+order_multiple: null,
+in_stock_quantity: 1846,
+eligible_region: "GB",
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "Farnell",
+__class__: "Seller",
+homepage_url: "http://www.farnell.com/",
+uid: "58989d9272cd8b5f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=041035f&vpid=139745180",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+GBP: [
+[
+1,
+"0.12300"
+],
+[
+10,
+"0.07100"
+],
+[
+100,
+"0.05200"
+],
+[
+1000,
+"0.05100"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "TI01-0130708",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T12:51:40Z",
+order_multiple: null,
+in_stock_quantity: 92500,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "JP",
+has_ecommerce: true,
+name: "Chip One Stop",
+__class__: "Seller",
+homepage_url: "http://chip1stop.com/",
+uid: "6ffbaaf17255bc3c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0abb6e0&vpid=47619796",
+factory_order_multiple: null,
+factory_lead_days: 7,
+prices: {
+USD: [
+[
+2500,
+"0.13200"
+],
+[
+5000,
+"0.11200"
+],
+[
+10000,
+"0.09520"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T09:30:12Z",
+order_multiple: 2500,
+in_stock_quantity: 2500,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "SG",
+has_ecommerce: true,
+name: "Avnet Express Asia",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com/store/em/EMController?langId=-1&storeId=500201&catalogId=500201&action=home",
+uid: "547e91744a7e87b9"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0cefcb3&vpid=52266589",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+2500,
+"0.11200"
+],
+[
+12500,
+"0.09340"
+],
+[
+25000,
+"0.08000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "TI01-0130709",
+packaging: "Cut Tape",
+on_order_eta: null,
+last_updated: "2015-02-26T12:51:40Z",
+order_multiple: null,
+in_stock_quantity: 7460,
+eligible_region: null,
+moq: 10,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "JP",
+has_ecommerce: true,
+name: "Chip One Stop",
+__class__: "Seller",
+homepage_url: "http://chip1stop.com/",
+uid: "6ffbaaf17255bc3c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=05b4863&vpid=54458513",
+factory_order_multiple: null,
+factory_lead_days: 1,
+prices: {
+USD: [
+[
+10,
+"0.09130"
+],
+[
+50,
+"0.07100"
+],
+[
+75,
+"0.07020"
+],
+[
+100,
+"0.06910"
+],
+[
+250,
+"0.06900"
+],
+[
+500,
+"0.06830"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-15T17:41:39Z",
+order_multiple: null,
+in_stock_quantity: 10000,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Verical",
+__class__: "Seller",
+homepage_url: "http://www.verical.com",
+uid: "3c6cf966007befab"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0c87a92&vpid=36150665",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+5000,
+"0.10000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T18:25:31Z",
+order_multiple: null,
+in_stock_quantity: 127,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Freelance Electronics",
+__class__: "Seller",
+homepage_url: "http://rcfreelance.com/",
+uid: "029cc79618fcd15b"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0a3b3dd&vpid=44194183",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.07000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T17:12:34Z",
+order_multiple: null,
+in_stock_quantity: 79,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Quest",
+__class__: "Seller",
+homepage_url: "http://www.questcomp.com",
+uid: "b29977939293615e"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=027345a&vpid=12116826",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.80000"
+],
+[
+7,
+"0.40000"
+],
+[
+26,
+"0.24000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T22:56:02Z",
+order_multiple: null,
+in_stock_quantity: 40,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Bristol Electronics",
+__class__: "Seller",
+homepage_url: "http://bristolelectronics.com",
+uid: "2d58e852264bfe9f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=088ce14&vpid=44658375",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.26250"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T06:16:09Z",
+order_multiple: 2500,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "PL",
+has_ecommerce: true,
+name: "TME",
+__class__: "Seller",
+homepage_url: "http://www.tme.eu/en/",
+uid: "223ee7340ea4f1f9"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0434a49&vpid=103422847",
+factory_order_multiple: null,
+factory_lead_days: 21,
+prices: {
+USD: [
+[
+2500,
+"0.07100"
+],
+[
+5000,
+"0.06800"
+],
+[
+10000,
+"0.06600"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T07:06:25Z",
+order_multiple: null,
+in_stock_quantity: 6800,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "CN",
+has_ecommerce: true,
+name: "Wuhan P&S",
+__class__: "Seller",
+homepage_url: "http://www.icbase.com",
+uid: "9cb259b88fac4f75"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=077f818&vpid=54443833",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.15000"
+],
+[
+1000,
+"0.08000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-13T16:58:18Z",
+order_multiple: null,
+in_stock_quantity: 27,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "CA",
+has_ecommerce: false,
+name: "Component Electronics",
+__class__: "Seller",
+homepage_url: "http://www.componentonline.com",
+uid: "7c78b9721661afbf"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=05acce4&vpid=74354344",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-21T13:23:42Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "LittleDiode",
+__class__: "Seller",
+homepage_url: "http://www.littlediode.com",
+uid: "1d4bd8411684ce8c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=08da7c1&vpid=147098057",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-10T14:49:44Z",
+order_multiple: null,
+in_stock_quantity: 5160,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "DE",
+has_ecommerce: false,
+name: "Eurotronik",
+__class__: "Seller",
+homepage_url: "http://www.eurotronik.com",
+uid: "7da8b8a21fbeae6f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=00f0d66&vpid=91979274",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-16T13:47:59Z",
+order_multiple: null,
+in_stock_quantity: 315000,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=516581&vpid=112720271",
+__class__: "PartOffer",
+seller: {
+display_flag: "IL",
+has_ecommerce: false,
+name: "GreenTree Electronics",
+__class__: "Seller",
+homepage_url: "http://www.gtelec.com/",
+uid: "7662b368101fa5a5"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0659a11&vpid=112720271",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "526959",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T09:32:55Z",
+order_multiple: null,
+in_stock_quantity: 6225,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "RS Components",
+__class__: "Seller",
+homepage_url: "http://www.rs-components.com",
+uid: "322cf7263c6ce1eb"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=04d7cd6&vpid=114410158",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+}
+],
+uid: "d4781d7510fb0bbf",
+uid_v2: 51658107504,
+mpn: "NE555DR",
+brand: {
+homepage_url: "http://ti.com",
+__class__: "Brand",
+name: "Texas Instruments",
+uid: "2239e3330e2df5fe"
+},
+octopart_url: "http://octopart.com/ne555dr-texas+instruments-516581",
+__class__: "Part",
+manufacturer: {
+homepage_url: "http://ti.com",
+__class__: "Manufacturer",
+name: "Texas Instruments",
+uid: "40f985f368ed933e"
+}
+},
+__class__: "SearchResult"
+},
+{
+snippet: "ic,sa555dr,na555, <strong>ne555</strong>, sa555 , se555 &lt;nv",
+item: {
+offers: [
+{
+sku: "85X7134",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-13T16:06:00Z",
+order_multiple: null,
+in_stock_quantity: 7500,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Newark",
+__class__: "Seller",
+homepage_url: "http://www.newark.com",
+uid: "d294179ef2900153"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0a870b5&vpid=173793689",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.10700"
+],
+[
+2500,
+"0.10200"
+],
+[
+5000,
+"0.09400"
+],
+[
+7500,
+"0.08900"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "SA555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:50:40Z",
+order_multiple: 2500,
+in_stock_quantity: 5000,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Avnet Express",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com",
+uid: "c1e404eefe3c1223"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0613f43&vpid=17836469",
+factory_order_multiple: null,
+factory_lead_days: 6,
+prices: {
+USD: [
+[
+2500,
+"0.10220"
+],
+[
+12500,
+"0.09270"
+],
+[
+25000,
+"0.09040"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "SA555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T23:16:28Z",
+order_multiple: 2500,
+in_stock_quantity: 80000,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "EU",
+has_ecommerce: true,
+name: "Avnet Express Europe",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com/store/em/EMController?storeId=500201&action=home&region=EMEA&catalogId=500201&langId=-1",
+uid: "a7c762cdb2197400"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0d8d683&vpid=61594258",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+EUR: [
+[
+2500,
+"0.10020"
+],
+[
+5000,
+"0.08520"
+],
+[
+10000,
+"0.07260"
+],
+[
+20000,
+"0.06760"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "SA555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T21:20:00Z",
+order_multiple: 2500,
+in_stock_quantity: 20000,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Arrow",
+__class__: "Seller",
+homepage_url: "http://www.arrownac.com/",
+uid: "9d5b5851b06f4e9c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=051ca0b&vpid=15362486",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+2500,
+"0.11600"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-14635-6-ND",
+packaging: "Custom Reel",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 3470,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0799e0f&vpid=1699113",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+1,
+"0.42000"
+],
+[
+10,
+"0.32600"
+],
+[
+25,
+"0.27480"
+],
+[
+100,
+"0.22380"
+],
+[
+250,
+"0.18540"
+],
+[
+500,
+"0.15314"
+],
+[
+750,
+"0.12772"
+],
+[
+1000,
+"0.11470"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-14635-1-ND",
+packaging: "Cut Tape",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 3470,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0359d72&vpid=1718256",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+1,
+"0.42000"
+],
+[
+10,
+"0.32600"
+],
+[
+25,
+"0.27480"
+],
+[
+100,
+"0.22380"
+],
+[
+250,
+"0.18540"
+],
+[
+500,
+"0.15314"
+],
+[
+750,
+"0.12772"
+],
+[
+1000,
+"0.11470"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-14635-2-ND",
+packaging: "Tape & Reel",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 2500,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0d4eb06&vpid=1345422",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+2500,
+"0.10230"
+],
+[
+5000,
+"0.09610"
+],
+[
+12500,
+"0.08990"
+],
+[
+25000,
+"0.08246"
+],
+[
+62500,
+"0.07936"
+],
+[
+125000,
+"0.07750"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "595-SA555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:33:34Z",
+order_multiple: null,
+in_stock_quantity: 5564,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Mouser",
+__class__: "Seller",
+homepage_url: "http://www.mouser.com",
+uid: "a5e060ea85e77627"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=03573c9&vpid=38973170",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.40000"
+],
+[
+10,
+"0.27400"
+],
+[
+100,
+"0.12800"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "SA555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T07:28:15Z",
+order_multiple: null,
+in_stock_quantity: 5000,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Rochester Electronics",
+__class__: "Seller",
+homepage_url: "http://www.rocelec.com/",
+uid: "a66d636799c375aa"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0e1c754&vpid=182231155",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.28000"
+],
+[
+25,
+"0.28000"
+],
+[
+100,
+"0.23000"
+],
+[
+500,
+"0.23000"
+],
+[
+1000,
+"0.19000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "62499",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-30T07:20:40Z",
+order_multiple: null,
+in_stock_quantity: 4459,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "RU",
+has_ecommerce: true,
+name: "DKO Electronshik",
+__class__: "Seller",
+homepage_url: "http://www.compel.ru/",
+uid: "496d8c67224a9aaa"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=08d9218&vpid=178210722",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+RUB: [
+[
+1,
+"29.14400"
+],
+[
+160,
+"12.45210"
+]
+],
+USD: [
+[
+1,
+"0.42550"
+],
+[
+160,
+"0.18180"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "2436735",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T12:43:35Z",
+order_multiple: null,
+in_stock_quantity: 7500,
+eligible_region: "GB",
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "Farnell",
+__class__: "Seller",
+homepage_url: "http://www.farnell.com/",
+uid: "58989d9272cd8b5f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0690c92&vpid=167538695",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+GBP: [
+[
+2500,
+"0.06200"
+],
+[
+5000,
+"0.06100"
+],
+[
+7500,
+"0.06000"
+],
+[
+12500,
+"0.05800"
+],
+[
+25000,
+"0.05300"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "2436735",
+packaging: "Tape & Reel",
+on_order_eta: null,
+last_updated: "2015-02-26T15:33:10Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: "SG",
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "SG",
+has_ecommerce: true,
+name: "element14 APAC",
+__class__: "Seller",
+homepage_url: "http://www.element14.com/",
+uid: "cdc808c2c94e1e0f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=036f675&vpid=164308786",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+SGD: [
+[
+2500,
+"0.13600"
+],
+[
+5000,
+"0.13400"
+],
+[
+7500,
+"0.13200"
+],
+[
+12500,
+"0.12800"
+],
+[
+25000,
+"0.11700"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "SA555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T09:30:12Z",
+order_multiple: 2500,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 5000,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "SG",
+has_ecommerce: true,
+name: "Avnet Express Asia",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com/store/em/EMController?langId=-1&storeId=500201&catalogId=500201&action=home",
+uid: "547e91744a7e87b9"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=088eac0&vpid=52267623",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+5000,
+"0.12400"
+],
+[
+12500,
+"0.10340"
+],
+[
+25000,
+"0.08860"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "TI01-0202031",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T12:51:40Z",
+order_multiple: null,
+in_stock_quantity: 2500,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "JP",
+has_ecommerce: true,
+name: "Chip One Stop",
+__class__: "Seller",
+homepage_url: "http://chip1stop.com/",
+uid: "6ffbaaf17255bc3c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=03b8863&vpid=50956049",
+factory_order_multiple: null,
+factory_lead_days: 3,
+prices: {
+USD: [
+[
+2500,
+"0.14100"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "SA555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-15T17:41:39Z",
+order_multiple: null,
+in_stock_quantity: 22500,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Verical",
+__class__: "Seller",
+homepage_url: "http://www.verical.com",
+uid: "3c6cf966007befab"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=09f164d&vpid=46104714",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+2500,
+"0.10000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "SA555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T07:06:25Z",
+order_multiple: null,
+in_stock_quantity: 13850,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "CN",
+has_ecommerce: true,
+name: "Wuhan P&S",
+__class__: "Seller",
+homepage_url: "http://www.icbase.com",
+uid: "9cb259b88fac4f75"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=04cd43f&vpid=54443851",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.20000"
+],
+[
+1000,
+"0.14000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "SA555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-13T16:58:18Z",
+order_multiple: null,
+in_stock_quantity: 48,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "CA",
+has_ecommerce: false,
+name: "Component Electronics",
+__class__: "Seller",
+homepage_url: "http://www.componentonline.com",
+uid: "7c78b9721661afbf"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=050a5f1&vpid=74354404",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "SA555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-13T17:11:50Z",
+order_multiple: null,
+in_stock_quantity: -3,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "EU",
+has_ecommerce: false,
+name: "Rotakorn",
+__class__: "Seller",
+homepage_url: "http://rotakorn.se",
+uid: "b0e675ecc4716321"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=04281a0&vpid=184364743",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "SA555DR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-16T13:47:59Z",
+order_multiple: null,
+in_stock_quantity: 36750,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=516575&vpid=112720567",
+__class__: "PartOffer",
+seller: {
+display_flag: "IL",
+has_ecommerce: false,
+name: "GreenTree Electronics",
+__class__: "Seller",
+homepage_url: "http://www.gtelec.com/",
+uid: "7662b368101fa5a5"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0142127&vpid=112720567",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+}
+],
+uid: "1ff1d6fcdb48c036",
+uid_v2: 51657509607,
+mpn: "SA555DR",
+brand: {
+homepage_url: "http://ti.com",
+__class__: "Brand",
+name: "Texas Instruments",
+uid: "2239e3330e2df5fe"
+},
+octopart_url: "http://octopart.com/sa555dr-texas+instruments-516575",
+__class__: "Part",
+manufacturer: {
+homepage_url: "http://ti.com",
+__class__: "Manufacturer",
+name: "Texas Instruments",
+uid: "40f985f368ed933e"
+}
+},
+__class__: "SearchResult"
+},
+{
+snippet: "<strong>ne555</strong> series 16v 500 khz through hole gener",
+item: {
+offers: [
+{
+sku: "89K1486",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-13T16:06:00Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Newark",
+__class__: "Seller",
+homepage_url: "http://www.newark.com",
+uid: "d294179ef2900153"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=052612a&vpid=118704936",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "497-1963-5-ND",
+packaging: "Tube",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0ad9555&vpid=126642339",
+factory_order_multiple: null,
+factory_lead_days: 86,
+prices: {
+USD: [
+[
+1,
+"0.42000"
+],
+[
+10,
+"0.33200"
+],
+[
+25,
+"0.27960"
+],
+[
+100,
+"0.22750"
+],
+[
+250,
+"0.18852"
+],
+[
+500,
+"0.15600"
+],
+[
+1000,
+"0.11700"
+],
+[
+2500,
+"0.10725"
+],
+[
+5000,
+"0.10075"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T21:20:00Z",
+order_multiple: 4000,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 4000,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Arrow",
+__class__: "Seller",
+homepage_url: "http://www.arrownac.com/",
+uid: "9d5b5851b06f4e9c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=059907e&vpid=118934137",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+4000,
+"1.64000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T01:53:59Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 10,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "CA",
+has_ecommerce: true,
+name: "Future Electronics",
+__class__: "Seller",
+homepage_url: "http://futureelectronics.com",
+uid: "e4032109c4f337c4"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=09aed13&vpid=123353723",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+10,
+"1.11110"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:50:40Z",
+order_multiple: 1,
+in_stock_quantity: -2,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Avnet Express",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com",
+uid: "c1e404eefe3c1223"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=03d9d5d&vpid=187898818",
+factory_order_multiple: null,
+factory_lead_days: 98,
+prices: { },
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "5756",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-30T07:20:40Z",
+order_multiple: null,
+in_stock_quantity: 6177,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "RU",
+has_ecommerce: true,
+name: "DKO Electronshik",
+__class__: "Seller",
+homepage_url: "http://www.compel.ru/",
+uid: "496d8c67224a9aaa"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0fe0c69&vpid=178204758",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+RUB: [
+[
+1,
+"49.02770"
+],
+[
+160,
+"20.93850"
+]
+],
+USD: [
+[
+1,
+"0.71580"
+],
+[
+160,
+"0.30570"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "890091",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-23T19:34:36Z",
+order_multiple: null,
+in_stock_quantity: 2466,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Jameco",
+__class__: "Seller",
+homepage_url: "http://www.jameco.com",
+uid: "bab57fbf9ab96972"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0f02d7c&vpid=187423876",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.29000"
+],
+[
+10,
+"0.25000"
+],
+[
+100,
+"0.22000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "5085",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-03T14:31:08Z",
+order_multiple: null,
+in_stock_quantity: 520,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "EU",
+has_ecommerce: true,
+name: "Halfin",
+__class__: "Seller",
+homepage_url: null,
+uid: "7e26bb2c1225ade1"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=028d787&vpid=167563282",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.50970"
+],
+[
+25,
+"0.38220"
+],
+[
+100,
+"0.25480"
+],
+[
+250,
+"0.12740"
+]
+],
+EUR: [
+[
+1,
+"0.40000"
+],
+[
+25,
+"0.30000"
+],
+[
+100,
+"0.20000"
+],
+[
+250,
+"0.10000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T17:12:34Z",
+order_multiple: null,
+in_stock_quantity: 24,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Quest",
+__class__: "Seller",
+homepage_url: "http://www.questcomp.com",
+uid: "b29977939293615e"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=048a3b3&vpid=123646978",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.90000"
+],
+[
+7,
+"0.45000"
+],
+[
+23,
+"0.27000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T18:59:58Z",
+order_multiple: null,
+in_stock_quantity: 7,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Nexus Electronics",
+__class__: "Seller",
+homepage_url: "http://nexelec.com",
+uid: "e574207e873f36b3"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=051d899&vpid=189076104",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.76000"
+],
+[
+10,
+"0.76000"
+],
+[
+25,
+"0.76000"
+],
+[
+50,
+"0.68400"
+],
+[
+100,
+"0.64600"
+],
+[
+250,
+"0.64600"
+],
+[
+500,
+"0.60800"
+],
+[
+1000,
+"0.57000"
+],
+[
+5000,
+"0.53200"
+],
+[
+10000,
+"0.53200"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: "Bulk",
+on_order_eta: null,
+last_updated: "2015-01-29T21:26:53Z",
+order_multiple: 1,
+in_stock_quantity: 6,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "B+D Enterprises",
+__class__: "Seller",
+homepage_url: "http://www.bdent.com",
+uid: "d3e116ebf3e30026"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=01e7067&vpid=120314056",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.49000"
+],
+[
+10,
+"0.44000"
+],
+[
+25,
+"0.38000"
+],
+[
+50,
+"0.38000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T18:25:31Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Freelance Electronics",
+__class__: "Seller",
+homepage_url: "http://rcfreelance.com/",
+uid: "029cc79618fcd15b"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0257c44&vpid=165651683",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.05000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "STMI-0041152",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T12:51:40Z",
+order_multiple: null,
+in_stock_quantity: 50,
+eligible_region: null,
+moq: 50,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "JP",
+has_ecommerce: true,
+name: "Chip One Stop",
+__class__: "Seller",
+homepage_url: "http://chip1stop.com/",
+uid: "6ffbaaf17255bc3c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=03b46b7&vpid=178998885",
+factory_order_multiple: null,
+factory_lead_days: 6,
+prices: {
+USD: [
+[
+50,
+"2.38000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T14:08:56Z",
+order_multiple: null,
+in_stock_quantity: 1000,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "Express Electronics",
+__class__: "Seller",
+homepage_url: "http://www.express-elect.com",
+uid: "0a94cf9e2a60d953"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0aaaa46&vpid=116129540",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-24T23:00:03Z",
+order_multiple: null,
+in_stock_quantity: 200,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=594&vpid=139069901",
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Electronic Expediters",
+__class__: "Seller",
+homepage_url: "http://www.expediters.com/",
+uid: "a83a6d3088d87bfd"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=03adeb8&vpid=139069901",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-21T13:23:42Z",
+order_multiple: null,
+in_stock_quantity: 87,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "LittleDiode",
+__class__: "Seller",
+homepage_url: "http://www.littlediode.com",
+uid: "1d4bd8411684ce8c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=09c2160&vpid=155975567",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "22349480",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T05:03:37Z",
+order_multiple: null,
+in_stock_quantity: 72,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "PriceLynx",
+__class__: "Seller",
+homepage_url: "http://www.pricelynx.com",
+uid: "e8582d52fb533b9f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0618772&vpid=165373809",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-13T16:58:18Z",
+order_multiple: null,
+in_stock_quantity: 45,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "CA",
+has_ecommerce: false,
+name: "Component Electronics",
+__class__: "Seller",
+homepage_url: "http://www.componentonline.com",
+uid: "7c78b9721661afbf"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0caea03&vpid=174947355",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2014-08-01T16:38:58Z",
+order_multiple: null,
+in_stock_quantity: 99,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "Florida Circuit",
+__class__: "Seller",
+homepage_url: "http://floridacircuit.com/",
+uid: "005fc5551963d398"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0e281de&vpid=45393078",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-24T17:00:15Z",
+order_multiple: null,
+in_stock_quantity: 450,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=594&vpid=133851068",
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: false,
+name: "Cyclops Electronics",
+__class__: "Seller",
+homepage_url: "http://www.cyclops-electronics.com",
+uid: "6bd5aedf7d8db812"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0e40415&vpid=133851068",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-21T00:54:29Z",
+order_multiple: null,
+in_stock_quantity: 2,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "IBS Electronics",
+__class__: "Seller",
+homepage_url: "http://www.ibselectronics.com/",
+uid: "5f229a287fd08ce5"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=086e110&vpid=122365530",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T12:14:24Z",
+order_multiple: null,
+in_stock_quantity: 20,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "Area51-Recertified",
+__class__: "Seller",
+homepage_url: "http://www.area51recertified.com",
+uid: "fbba3eb0e72f287d"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=04105a8&vpid=189256386",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-03T18:21:30Z",
+order_multiple: null,
+in_stock_quantity: 14,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: false,
+name: "Euro-Tech",
+__class__: "Seller",
+homepage_url: "http://www.eurotech.co.uk",
+uid: "1fdadad001abcc1d"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=02bd230&vpid=136524441",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T15:13:33Z",
+order_multiple: null,
+in_stock_quantity: 597,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "EDX",
+__class__: "Seller",
+homepage_url: "http://www.edxelectronics.com/",
+uid: "ee682b62ce783daf"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0845151&vpid=135040983",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T00:52:33Z",
+order_multiple: null,
+in_stock_quantity: 101,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=594&vpid=165868635",
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "Panther Parts",
+__class__: "Seller",
+homepage_url: "http://www.pantherparts.com",
+uid: "f2d537df95412112"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0c61684&vpid=165868635",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T14:37:31Z",
+order_multiple: null,
+in_stock_quantity: 9,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "AED Electronics",
+__class__: "Seller",
+homepage_url: "http://www.aedelectronics.com",
+uid: "f0283522f1e123ef"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0366054&vpid=115332825",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555N",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-16T13:47:59Z",
+order_multiple: null,
+in_stock_quantity: 72346,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=594&vpid=137938801",
+__class__: "PartOffer",
+seller: {
+display_flag: "IL",
+has_ecommerce: false,
+name: "GreenTree Electronics",
+__class__: "Seller",
+homepage_url: "http://www.gtelec.com/",
+uid: "7662b368101fa5a5"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=064e3b1&vpid=137938801",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+}
+],
+uid: "b077797d97436fb0",
+uid_v2: 59446783,
+mpn: "NE555N",
+brand: {
+homepage_url: null,
+__class__: "Brand",
+name: "STMicroelectronics",
+uid: "80894183ac8c574e"
+},
+octopart_url: "http://octopart.com/ne555n-stmicroelectronics-594",
+__class__: "Part",
+manufacturer: {
+homepage_url: null,
+__class__: "Manufacturer",
+name: "STMicroelectronics",
+uid: "e9a52cafc1a03a62"
+}
+},
+__class__: "SearchResult"
+},
+{
+snippet: "<strong>ne555</strong> series 16 v 500 khz smt general-purpo",
+item: {
+offers: [
+{
+sku: "89K1485",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-13T16:06:00Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Newark",
+__class__: "Seller",
+homepage_url: "http://www.newark.com",
+uid: "d294179ef2900153"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0f0c3c6&vpid=166635649",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555DT",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:50:40Z",
+order_multiple: 2500,
+in_stock_quantity: 12500,
+eligible_region: null,
+moq: 10000,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Avnet Express",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com",
+uid: "c1e404eefe3c1223"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0f8b6e2&vpid=166613648",
+factory_order_multiple: null,
+factory_lead_days: 98,
+prices: {
+USD: [
+[
+10000,
+"0.08380"
+],
+[
+12500,
+"0.08000"
+],
+[
+25000,
+"0.07890"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "497-1962-2-ND",
+packaging: "Tape & Reel",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=01319a1&vpid=126642337",
+factory_order_multiple: null,
+factory_lead_days: 86,
+prices: {
+USD: [
+[
+2500,
+"0.08976"
+],
+[
+5000,
+"0.08432"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "497-1962-1-ND",
+packaging: "Cut Tape",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=07d1f3b&vpid=126642336",
+factory_order_multiple: null,
+factory_lead_days: 86,
+prices: {
+USD: [
+[
+1,
+"0.46000"
+],
+[
+10,
+"0.35700"
+],
+[
+25,
+"0.30120"
+],
+[
+100,
+"0.24550"
+],
+[
+250,
+"0.20332"
+],
+[
+500,
+"0.16796"
+],
+[
+1000,
+"0.12580"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "497-1962-6-ND",
+packaging: "Custom Reel",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=02482b6&vpid=126642338",
+factory_order_multiple: null,
+factory_lead_days: 86,
+prices: {
+USD: [
+[
+1,
+"0.46000"
+],
+[
+10,
+"0.35700"
+],
+[
+25,
+"0.30120"
+],
+[
+100,
+"0.24550"
+],
+[
+250,
+"0.20332"
+],
+[
+500,
+"0.16796"
+],
+[
+1000,
+"0.12580"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555DT",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T21:20:00Z",
+order_multiple: 5000,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 5000,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Arrow",
+__class__: "Seller",
+homepage_url: "http://www.arrownac.com/",
+uid: "9d5b5851b06f4e9c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0e677d7&vpid=116764451",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+5000,
+"1.64000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "1467741",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T12:43:35Z",
+order_multiple: null,
+in_stock_quantity: 3897,
+eligible_region: "GB",
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "Farnell",
+__class__: "Seller",
+homepage_url: "http://www.farnell.com/",
+uid: "58989d9272cd8b5f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0e91bf1&vpid=139689403",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+GBP: [
+[
+1,
+"0.44000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "1467741",
+packaging: "Cut Tape",
+on_order_eta: null,
+last_updated: "2015-02-26T15:33:10Z",
+order_multiple: null,
+in_stock_quantity: 1090,
+eligible_region: "SG",
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "SG",
+has_ecommerce: true,
+name: "element14 APAC",
+__class__: "Seller",
+homepage_url: "http://www.element14.com/",
+uid: "cdc808c2c94e1e0f"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=023bb75&vpid=132624871",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+SGD: [
+[
+1,
+"0.63500"
+],
+[
+10,
+"0.49300"
+],
+[
+25,
+"0.41600"
+],
+[
+100,
+"0.33900"
+],
+[
+250,
+"0.28100"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "225867",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-30T07:20:40Z",
+order_multiple: null,
+in_stock_quantity: 24911,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "RU",
+has_ecommerce: true,
+name: "DKO Electronshik",
+__class__: "Seller",
+homepage_url: "http://www.compel.ru/",
+uid: "496d8c67224a9aaa"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=056dc6c&vpid=178204757",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+RUB: [
+[
+1,
+"23.83580"
+],
+[
+160,
+"10.17820"
+]
+],
+USD: [
+[
+1,
+"0.34800"
+],
+[
+160,
+"0.14860"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DT",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T15:14:42Z",
+order_multiple: null,
+in_stock_quantity: 2500,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Components Direct",
+__class__: "Seller",
+homepage_url: "http://www.componentsdirect.com/",
+uid: "3f9ffa95247eec58"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0bffdde&vpid=181120949",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.06000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DT",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-05T17:59:30Z",
+order_multiple: null,
+in_stock_quantity: 1312,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Angenic",
+__class__: "Seller",
+homepage_url: "http://angenic.com/Home.awp",
+uid: "2071e57b532cf3b6"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=081479a&vpid=141787294",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DT",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T17:12:34Z",
+order_multiple: null,
+in_stock_quantity: 36,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Quest",
+__class__: "Seller",
+homepage_url: "http://www.questcomp.com",
+uid: "b29977939293615e"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0a49212&vpid=176469017",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.30000"
+],
+[
+18,
+"0.15000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DT",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-24T17:00:15Z",
+order_multiple: null,
+in_stock_quantity: 1393,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=516588&vpid=165606876",
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: false,
+name: "Cyclops Electronics",
+__class__: "Seller",
+homepage_url: "http://www.cyclops-electronics.com",
+uid: "6bd5aedf7d8db812"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=014a706&vpid=165606876",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DT",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-13T16:58:18Z",
+order_multiple: null,
+in_stock_quantity: 70,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "CA",
+has_ecommerce: false,
+name: "Component Electronics",
+__class__: "Seller",
+homepage_url: "http://www.componentonline.com",
+uid: "7c78b9721661afbf"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=069bb6d&vpid=174947354",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DT",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-24T21:48:31Z",
+order_multiple: null,
+in_stock_quantity: -3,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "NexGen Digital",
+__class__: "Seller",
+homepage_url: "http://www.nexgendigital.com/",
+uid: "d32f16259b7600e8"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0d9b5a0&vpid=184131411",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DT",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-19T16:02:00Z",
+order_multiple: null,
+in_stock_quantity: 152500,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "SIE",
+__class__: "Seller",
+homepage_url: "http://www.sie-usa.com",
+uid: "8385468f8ebe5042"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=04fb1b9&vpid=135138103",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DT",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T12:14:24Z",
+order_multiple: null,
+in_stock_quantity: 2388,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "Area51-Recertified",
+__class__: "Seller",
+homepage_url: "http://www.area51recertified.com",
+uid: "fbba3eb0e72f287d"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0a0ab22&vpid=189256695",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DT",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-21T13:23:42Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "LittleDiode",
+__class__: "Seller",
+homepage_url: "http://www.littlediode.com",
+uid: "1d4bd8411684ce8c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=04ca54f&vpid=147091657",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DT",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T14:08:56Z",
+order_multiple: null,
+in_stock_quantity: 1393,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "Express Electronics",
+__class__: "Seller",
+homepage_url: "http://www.express-elect.com",
+uid: "0a94cf9e2a60d953"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0afa792&vpid=116129641",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DT",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-16T13:47:59Z",
+order_multiple: null,
+in_stock_quantity: 21000,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=516588&vpid=137938800",
+__class__: "PartOffer",
+seller: {
+display_flag: "IL",
+has_ecommerce: false,
+name: "GreenTree Electronics",
+__class__: "Seller",
+homepage_url: "http://www.gtelec.com/",
+uid: "7662b368101fa5a5"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=097f8f2&vpid=137938800",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+}
+],
+uid: "bcfd75f07877633a",
+uid_v2: 51658821470,
+mpn: "NE555DT",
+brand: {
+homepage_url: null,
+__class__: "Brand",
+name: "STMicroelectronics",
+uid: "80894183ac8c574e"
+},
+octopart_url: "http://octopart.com/ne555dt-stmicroelectronics-516588",
+__class__: "Part",
+manufacturer: {
+homepage_url: null,
+__class__: "Manufacturer",
+name: "STMicroelectronics",
+uid: "e9a52cafc1a03a62"
+}
+},
+__class__: "SearchResult"
+},
+{
+snippet: "Peripheral circuit; astable/monostable, timer; 4.5÷16VD",
+item: {
+offers: [
+{
+sku: "75C4442",
+packaging: "Tape & Reel",
+on_order_eta: null,
+last_updated: "2015-02-13T16:06:00Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Newark",
+__class__: "Seller",
+homepage_url: "http://www.newark.com",
+uid: "d294179ef2900153"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0d1b628&vpid=13477557",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.08900"
+],
+[
+6000,
+"0.08800"
+],
+[
+24000,
+"0.08300"
+],
+[
+45000,
+"0.07700"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-29904-6-ND",
+packaging: "Custom Reel",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 41856,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0bc8958&vpid=44466275",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+1,
+"0.42000"
+],
+[
+10,
+"0.32600"
+],
+[
+25,
+"0.27480"
+],
+[
+100,
+"0.22380"
+],
+[
+250,
+"0.18540"
+],
+[
+500,
+"0.15314"
+],
+[
+750,
+"0.12772"
+],
+[
+1000,
+"0.11470"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-29904-1-ND",
+packaging: "Cut Tape",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 41856,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=00056df&vpid=44466273",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+1,
+"0.42000"
+],
+[
+10,
+"0.32600"
+],
+[
+25,
+"0.27480"
+],
+[
+100,
+"0.22380"
+],
+[
+250,
+"0.18540"
+],
+[
+500,
+"0.15314"
+],
+[
+750,
+"0.12772"
+],
+[
+1000,
+"0.11470"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-29904-2-ND",
+packaging: "Tape & Reel",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 36000,
+eligible_region: null,
+moq: 2000,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0da30d8&vpid=44466274",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+2000,
+"0.10230"
+],
+[
+6000,
+"0.09610"
+],
+[
+10000,
+"0.08990"
+],
+[
+50000,
+"0.07936"
+],
+[
+100000,
+"0.07750"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555PWR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:50:40Z",
+order_multiple: 2000,
+in_stock_quantity: -3,
+eligible_region: null,
+moq: 6000,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Avnet Express",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com",
+uid: "c1e404eefe3c1223"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0055d6c&vpid=27452643",
+factory_order_multiple: null,
+factory_lead_days: 6,
+prices: {
+USD: [
+[
+6000,
+"0.09750"
+],
+[
+30000,
+"0.09000"
+],
+[
+60000,
+"0.08820"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "595-NE555PWR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:33:34Z",
+order_multiple: null,
+in_stock_quantity: 3452,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Mouser",
+__class__: "Seller",
+homepage_url: "http://www.mouser.com",
+uid: "a5e060ea85e77627"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0fb70d3&vpid=53620986",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.40000"
+],
+[
+10,
+"0.27400"
+],
+[
+100,
+"0.12800"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555PWR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T21:20:00Z",
+order_multiple: 2000,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 2000,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Arrow",
+__class__: "Seller",
+homepage_url: "http://www.arrownac.com/",
+uid: "9d5b5851b06f4e9c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=073c4ed&vpid=15175451",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+2000,
+"0.11980"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555PWR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T07:28:15Z",
+order_multiple: null,
+in_stock_quantity: 4000,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Rochester Electronics",
+__class__: "Seller",
+homepage_url: "http://www.rocelec.com/",
+uid: "a66d636799c375aa"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0a3f789&vpid=182227606",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.28000"
+],
+[
+25,
+"0.28000"
+],
+[
+100,
+"0.23000"
+],
+[
+500,
+"0.23000"
+],
+[
+1000,
+"0.19000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555PWR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T09:30:12Z",
+order_multiple: 2000,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 6000,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "SG",
+has_ecommerce: true,
+name: "Avnet Express Asia",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com/store/em/EMController?langId=-1&storeId=500201&catalogId=500201&action=home",
+uid: "547e91744a7e87b9"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0d49911&vpid=52266592",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+6000,
+"0.10340"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555PWR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T23:16:28Z",
+order_multiple: 2000,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 2000,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "EU",
+has_ecommerce: true,
+name: "Avnet Express Europe",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com/store/em/EMController?storeId=500201&action=home&region=EMEA&catalogId=500201&langId=-1",
+uid: "a7c762cdb2197400"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0be7970&vpid=61590879",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+EUR: [
+[
+2000,
+"0.08620"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555PWR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-15T17:41:39Z",
+order_multiple: null,
+in_stock_quantity: 10000,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Verical",
+__class__: "Seller",
+homepage_url: "http://www.verical.com",
+uid: "3c6cf966007befab"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=03c9333&vpid=52067346",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+6000,
+"0.10000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555PWR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T06:16:09Z",
+order_multiple: 1,
+in_stock_quantity: 1677,
+eligible_region: null,
+moq: 10,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "PL",
+has_ecommerce: true,
+name: "TME",
+__class__: "Seller",
+homepage_url: "http://www.tme.eu/en/",
+uid: "223ee7340ea4f1f9"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=062029b&vpid=88740189",
+factory_order_multiple: null,
+factory_lead_days: 21,
+prices: {
+USD: [
+[
+10,
+"0.13900"
+],
+[
+100,
+"0.10600"
+],
+[
+500,
+"0.09600"
+],
+[
+1000,
+"0.09300"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555PWR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-16T13:47:59Z",
+order_multiple: null,
+in_stock_quantity: 4200,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: "http://octopart.com/rfq/generate?ppid=2872058&vpid=137942638",
+__class__: "PartOffer",
+seller: {
+display_flag: "IL",
+has_ecommerce: false,
+name: "GreenTree Electronics",
+__class__: "Seller",
+homepage_url: "http://www.gtelec.com/",
+uid: "7662b368101fa5a5"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=06dec70&vpid=137942638",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "6623999",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T09:32:55Z",
+order_multiple: null,
+in_stock_quantity: 1040,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "RS Components",
+__class__: "Seller",
+homepage_url: "http://www.rs-components.com",
+uid: "322cf7263c6ce1eb"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=05bfc6c&vpid=114410159",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+}
+],
+uid: "4e068727b99a91c1",
+uid_v2: 287205819107,
+mpn: "NE555PWR",
+brand: {
+homepage_url: "http://ti.com",
+__class__: "Brand",
+name: "Texas Instruments",
+uid: "2239e3330e2df5fe"
+},
+octopart_url: "http://octopart.com/ne555pwr-texas+instruments-2872058",
+__class__: "Part",
+manufacturer: {
+homepage_url: "http://ti.com",
+__class__: "Manufacturer",
+name: "Texas Instruments",
+uid: "40f985f368ed933e"
+}
+},
+__class__: "SearchResult"
+},
+{
+snippet: "Precision Timer, 500khz, 16v, Sop-8, Full Reel",
+item: {
+offers: [
+{
+sku: "75C4441",
+packaging: "Tape & Reel",
+on_order_eta: null,
+last_updated: "2015-02-13T16:06:00Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Newark",
+__class__: "Seller",
+homepage_url: "http://www.newark.com",
+uid: "d294179ef2900153"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=00cc737&vpid=118767991",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.08900"
+],
+[
+6000,
+"0.08800"
+],
+[
+24000,
+"0.08300"
+],
+[
+45000,
+"0.07700"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-6502-1-ND",
+packaging: "Cut Tape",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 8711,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=095fb2c&vpid=119588397",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+1,
+"0.42000"
+],
+[
+10,
+"0.32600"
+],
+[
+25,
+"0.27480"
+],
+[
+100,
+"0.22380"
+],
+[
+250,
+"0.18540"
+],
+[
+500,
+"0.15314"
+],
+[
+750,
+"0.12772"
+],
+[
+1000,
+"0.11470"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-6502-6-ND",
+packaging: "Custom Reel",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 8711,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=07386a4&vpid=119588399",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+1,
+"0.42000"
+],
+[
+10,
+"0.32600"
+],
+[
+25,
+"0.27480"
+],
+[
+100,
+"0.22380"
+],
+[
+250,
+"0.18540"
+],
+[
+500,
+"0.15314"
+],
+[
+750,
+"0.12772"
+],
+[
+1000,
+"0.11470"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-6502-2-ND",
+packaging: "Tape & Reel",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 8000,
+eligible_region: null,
+moq: 2000,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0c12c59&vpid=123241646",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+2000,
+"0.10230"
+],
+[
+6000,
+"0.09610"
+],
+[
+10000,
+"0.08990"
+],
+[
+50000,
+"0.07936"
+],
+[
+100000,
+"0.07750"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "595-NE555PSR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:33:34Z",
+order_multiple: null,
+in_stock_quantity: 6742,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Mouser",
+__class__: "Seller",
+homepage_url: "http://www.mouser.com",
+uid: "a5e060ea85e77627"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0fa352f&vpid=116515247",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.40000"
+],
+[
+10,
+"0.27400"
+],
+[
+100,
+"0.12800"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555PSR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:50:40Z",
+order_multiple: 2000,
+in_stock_quantity: -3,
+eligible_region: null,
+moq: 6000,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Avnet Express",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com",
+uid: "c1e404eefe3c1223"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=037570b&vpid=137651783",
+factory_order_multiple: null,
+factory_lead_days: 6,
+prices: {
+USD: [
+[
+6000,
+"0.09750"
+],
+[
+30000,
+"0.09000"
+],
+[
+60000,
+"0.08820"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555PSR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T07:28:15Z",
+order_multiple: null,
+in_stock_quantity: 2000,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Rochester Electronics",
+__class__: "Seller",
+homepage_url: "http://www.rocelec.com/",
+uid: "a66d636799c375aa"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=00ebb13&vpid=182227604",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.28000"
+],
+[
+25,
+"0.28000"
+],
+[
+100,
+"0.23000"
+],
+[
+500,
+"0.23000"
+],
+[
+1000,
+"0.19000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555PSR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T21:20:00Z",
+order_multiple: 2000,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 2000,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Arrow",
+__class__: "Seller",
+homepage_url: "http://www.arrownac.com/",
+uid: "9d5b5851b06f4e9c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=06c8e55&vpid=118970602",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+2000,
+"0.11980"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555PSR",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-15T17:41:39Z",
+order_multiple: null,
+in_stock_quantity: 10000,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Verical",
+__class__: "Seller",
+homepage_url: "http://www.verical.com",
+uid: "3c6cf966007befab"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0277ee8&vpid=116578157",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+6000,
+"0.10000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+}
+],
+uid: "e3ab2866bfbc3c6c",
+uid_v2: 4662718559557,
+mpn: "NE555PSR",
+brand: {
+homepage_url: "http://ti.com",
+__class__: "Brand",
+name: "Texas Instruments",
+uid: "2239e3330e2df5fe"
+},
+octopart_url: "http://octopart.com/ne555psr-texas+instruments-46627185",
+__class__: "Part",
+manufacturer: {
+homepage_url: "http://ti.com",
+__class__: "Manufacturer",
+name: "Texas Instruments",
+uid: "40f985f368ed933e"
+}
+},
+__class__: "SearchResult"
+},
+{
+snippet: "Single Precision Timer 8-TSSOP 0 to 70",
+item: {
+offers: [
+{
+sku: "21H3827",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-13T16:06:00Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Newark",
+__class__: "Seller",
+homepage_url: "http://www.newark.com",
+uid: "d294179ef2900153"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=013928b&vpid=13477554",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.44200"
+],
+[
+10,
+"0.29900"
+],
+[
+100,
+"0.16200"
+],
+[
+1000,
+"0.12200"
+],
+[
+5000,
+"0.11100"
+],
+[
+10000,
+"0.09800"
+],
+[
+25000,
+"0.09200"
+],
+[
+50000,
+"0.09000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555PW",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T07:28:15Z",
+order_multiple: null,
+in_stock_quantity: 11551,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Rochester Electronics",
+__class__: "Seller",
+homepage_url: "http://www.rocelec.com/",
+uid: "a66d636799c375aa"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=05e533d&vpid=182227605",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.31000"
+],
+[
+25,
+"0.31000"
+],
+[
+100,
+"0.26000"
+],
+[
+500,
+"0.26000"
+],
+[
+1000,
+"0.21000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555PW",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:50:40Z",
+order_multiple: 150,
+in_stock_quantity: -3,
+eligible_region: null,
+moq: 3450,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Avnet Express",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com",
+uid: "c1e404eefe3c1223"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=083cb25&vpid=27083601",
+factory_order_multiple: null,
+factory_lead_days: 6,
+prices: {
+USD: [
+[
+3450,
+"0.11790"
+],
+[
+17250,
+"0.10670"
+],
+[
+34500,
+"0.10530"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "595-NE555PW",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:33:34Z",
+order_multiple: null,
+in_stock_quantity: 3847,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Mouser",
+__class__: "Seller",
+homepage_url: "http://www.mouser.com",
+uid: "a5e060ea85e77627"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=04f058e&vpid=53620984",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.48000"
+],
+[
+10,
+"0.32300"
+],
+[
+100,
+"0.15100"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555PW",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T21:20:00Z",
+order_multiple: 1,
+in_stock_quantity: 3345,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Arrow",
+__class__: "Seller",
+homepage_url: "http://www.arrownac.com/",
+uid: "9d5b5851b06f4e9c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0597e82&vpid=15362491",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.14220"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-15086-5-ND",
+packaging: "Tube",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 84,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0c7d51c&vpid=1751830",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+1,
+"0.47000"
+],
+[
+10,
+"0.37200"
+],
+[
+25,
+"0.31400"
+],
+[
+100,
+"0.25550"
+],
+[
+250,
+"0.21172"
+],
+[
+500,
+"0.17520"
+],
+[
+750,
+"0.14600"
+],
+[
+1000,
+"0.13140"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "TI01-0166280",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T12:51:40Z",
+order_multiple: null,
+in_stock_quantity: 85,
+eligible_region: null,
+moq: 5,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "JP",
+has_ecommerce: true,
+name: "Chip One Stop",
+__class__: "Seller",
+homepage_url: "http://chip1stop.com/",
+uid: "6ffbaaf17255bc3c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0a6fbb6&vpid=93792752",
+factory_order_multiple: null,
+factory_lead_days: 3,
+prices: {
+USD: [
+[
+5,
+"0.89400"
+],
+[
+25,
+"0.26300"
+],
+[
+50,
+"0.24800"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555PW",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-19T16:02:00Z",
+order_multiple: null,
+in_stock_quantity: 12,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: false,
+name: "SIE",
+__class__: "Seller",
+homepage_url: "http://www.sie-usa.com",
+uid: "8385468f8ebe5042"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0e70fb2&vpid=71907724",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+}
+],
+uid: "86d74fda42505910",
+uid_v2: 51657718939,
+mpn: "NE555PW",
+brand: {
+homepage_url: "http://ti.com",
+__class__: "Brand",
+name: "Texas Instruments",
+uid: "2239e3330e2df5fe"
+},
+octopart_url: "http://octopart.com/ne555pw-texas+instruments-516577",
+__class__: "Part",
+manufacturer: {
+homepage_url: "http://ti.com",
+__class__: "Manufacturer",
+name: "Texas Instruments",
+uid: "40f985f368ed933e"
+}
+},
+__class__: "SearchResult"
+},
+{
+snippet: "Single Precision Timer 8-SOIC 0 to 70",
+item: {
+offers: [
+{
+sku: "40K7946",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-13T16:06:00Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 5000,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Newark",
+__class__: "Seller",
+homepage_url: "http://www.newark.com",
+uid: "d294179ef2900153"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0c221d9&vpid=13477549",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"0.09600"
+],
+[
+5000,
+"0.09600"
+],
+[
+10000,
+"0.08800"
+],
+[
+25000,
+"0.08100"
+],
+[
+50000,
+"0.07100"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-35912-1-ND",
+packaging: "Cut Tape",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 6990,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=06ce131&vpid=78033770",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+1,
+"0.55000"
+],
+[
+10,
+"0.38600"
+],
+[
+25,
+"0.31760"
+],
+[
+100,
+"0.25370"
+],
+[
+250,
+"0.18480"
+],
+[
+500,
+"0.15008"
+],
+[
+750,
+"0.12712"
+],
+[
+1000,
+"0.11536"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-35912-6-ND",
+packaging: "Custom Reel",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 6990,
+eligible_region: null,
+moq: 1,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0e7108c&vpid=78033772",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+1,
+"0.55000"
+],
+[
+10,
+"0.38600"
+],
+[
+25,
+"0.31760"
+],
+[
+100,
+"0.25370"
+],
+[
+250,
+"0.18480"
+],
+[
+500,
+"0.15008"
+],
+[
+750,
+"0.12712"
+],
+[
+1000,
+"0.11536"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "296-35912-2-ND",
+packaging: "Tape & Reel",
+on_order_eta: null,
+last_updated: "2015-02-26T14:07:35Z",
+order_multiple: null,
+in_stock_quantity: 5000,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Digi-Key",
+__class__: "Seller",
+homepage_url: "http://www.digikey.com",
+uid: "2c3be9310496fffc"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=047a7be&vpid=78033771",
+factory_order_multiple: null,
+factory_lead_days: 42,
+prices: {
+USD: [
+[
+2500,
+"0.10080"
+],
+[
+5000,
+"0.09520"
+],
+[
+12500,
+"0.08680"
+],
+[
+25000,
+"0.08120"
+],
+[
+62500,
+"0.07280"
+],
+[
+125000,
+"0.07000"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555DRG4",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T10:50:40Z",
+order_multiple: 2500,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Avnet Express",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com",
+uid: "c1e404eefe3c1223"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0e14fca&vpid=27874633",
+factory_order_multiple: null,
+factory_lead_days: 6,
+prices: {
+USD: [
+[
+2500,
+"0.09260"
+],
+[
+12500,
+"0.08420"
+],
+[
+25000,
+"0.08180"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "TI01-0145566",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T12:51:40Z",
+order_multiple: null,
+in_stock_quantity: 20000,
+eligible_region: null,
+moq: 5000,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "JP",
+has_ecommerce: true,
+name: "Chip One Stop",
+__class__: "Seller",
+homepage_url: "http://chip1stop.com/",
+uid: "6ffbaaf17255bc3c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=042d7a2&vpid=120430208",
+factory_order_multiple: null,
+factory_lead_days: 7,
+prices: {
+USD: [
+[
+5000,
+"0.11200"
+],
+[
+10000,
+"0.09520"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555DRG4",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-25T23:16:28Z",
+order_multiple: 2500,
+in_stock_quantity: 15000,
+eligible_region: null,
+moq: 2500,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "EU",
+has_ecommerce: true,
+name: "Avnet Express Europe",
+__class__: "Seller",
+homepage_url: "http://avnetexpress.avnet.com/store/em/EMController?storeId=500201&action=home&region=EMEA&catalogId=500201&langId=-1",
+uid: "a7c762cdb2197400"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=076023c&vpid=61590877",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+EUR: [
+[
+2500,
+"0.07220"
+],
+[
+7500,
+"0.06140"
+],
+[
+15000,
+"0.05230"
+]
+]
+},
+is_authorized: true,
+is_realtime: false
+},
+{
+sku: "NE555DRG4",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-15T17:41:39Z",
+order_multiple: null,
+in_stock_quantity: 20000,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Verical",
+__class__: "Seller",
+homepage_url: "http://www.verical.com",
+uid: "3c6cf966007befab"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=02704e6&vpid=69706612",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+5000,
+"0.10000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DRG4",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-02-26T17:12:34Z",
+order_multiple: null,
+in_stock_quantity: 4393,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "US",
+has_ecommerce: true,
+name: "Quest",
+__class__: "Seller",
+homepage_url: "http://www.questcomp.com",
+uid: "b29977939293615e"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=044e4cd&vpid=22564535",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: {
+USD: [
+[
+1,
+"1.00000"
+],
+[
+6,
+"0.50000"
+],
+[
+21,
+"0.30000"
+],
+[
+168,
+"0.20000"
+],
+[
+2001,
+"0.15000"
+]
+]
+},
+is_authorized: false,
+is_realtime: false
+},
+{
+sku: "NE555DRG4",
+packaging: null,
+on_order_eta: null,
+last_updated: "2015-01-21T13:23:42Z",
+order_multiple: null,
+in_stock_quantity: 0,
+eligible_region: null,
+moq: null,
+on_order_quantity: null,
+octopart_rfq_url: null,
+__class__: "PartOffer",
+seller: {
+display_flag: "GB",
+has_ecommerce: true,
+name: "LittleDiode",
+__class__: "Seller",
+homepage_url: "http://www.littlediode.com",
+uid: "1d4bd8411684ce8c"
+},
+product_url: "http://octopart-clicks.com/click/vptrack?country=US&ak=11b3fd4e&sig=0ea9fb9&vpid=147098058",
+factory_order_multiple: null,
+factory_lead_days: null,
+prices: { },
+is_authorized: false,
+is_realtime: false
+}
+],
+uid: "1930d036ebd2c6f7",
+uid_v2: 84160404622,
+mpn: "NE555DRG4",
+brand: {
+homepage_url: "http://ti.com",
+__class__: "Brand",
+name: "Texas Instruments",
+uid: "2239e3330e2df5fe"
+},
+octopart_url: "http://octopart.com/ne555drg4-texas+instruments-841604",
+__class__: "Part",
+manufacturer: {
+homepage_url: "http://ti.com",
+__class__: "Manufacturer",
+name: "Texas Instruments",
+uid: "40f985f368ed933e"
+}
+},
+__class__: "SearchResult"
+}
+]
+}
+]

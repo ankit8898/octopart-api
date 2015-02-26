@@ -1,0 +1,492 @@
+
+
+Started GET "/api/search" for ::1 at 2015-02-26 13:37:31 -0500
+Processing by Api::SearchController#index as HTML
+Completed 200 OK in 11ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search" for ::1 at 2015-02-26 13:40:20 -0500
+Processing by Api::SearchController#index as HTML
+Completed 500 Internal Server Error in 481ms
+
+NoMethodError (undefined method `each' for nil:NilClass):
+  app/models/search.rb:33:in `find'
+  app/controllers/api/search_controller.rb:6:in `index'
+
+
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (4.6ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.8ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (67.6ms)
+
+
+Started GET "/api/search" for ::1 at 2015-02-26 13:40:41 -0500
+Processing by Api::SearchController#index as HTML
+Completed 200 OK in 1347ms (Views: 70.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=texas" for ::1 at 2015-02-26 13:41:45 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"texas"}
+=------{"q"=>"texas", "controller"=>"api/search", "action"=>"index"}
+Completed 200 OK in 1174ms (Views: 85.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=texas" for ::1 at 2015-02-26 13:47:00 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"texas"}
+=------{"q"=>"texas", "controller"=>"api/search", "action"=>"index"}
+Completed 200 OK in 952ms (Views: 81.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=texas" for ::1 at 2015-02-26 13:47:36 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"texas"}
+=------{"q"=>"texas", "controller"=>"api/search", "action"=>"index"}
+Completed 500 Internal Server Error in 2ms
+
+NameError (undefined local variable or method `lo' for Search:Class):
+  app/models/search.rb:18:in `find'
+  app/controllers/api/search_controller.rb:7:in `index'
+
+
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (6.2ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (58.5ms)
+
+
+Started GET "/api/search?q=texas" for ::1 at 2015-02-26 13:47:50 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"texas"}
+=------{"q"=>"texas", "controller"=>"api/search", "action"=>"index"}
+Completed 500 Internal Server Error in 2ms
+
+NameError (undefined local variable or method `lo' for Search:Class):
+  app/models/search.rb:18:in `find'
+  app/controllers/api/search_controller.rb:7:in `index'
+
+
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (4.3ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (54.8ms)
+
+
+Started GET "/api/search?q=texas" for ::1 at 2015-02-26 13:47:58 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"texas"}
+=------{"q"=>"texas", "controller"=>"api/search", "action"=>"index"}
+Completed 200 OK in 675ms (Views: 79.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=texas" for ::1 at 2015-02-26 13:48:10 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"texas"}
+=------{"q"=>"texas", "controller"=>"api/search", "action"=>"index"}
+Completed 200 OK in 707ms (Views: 89.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=texas" for ::1 at 2015-02-26 13:48:50 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"texas"}
+=------{"q"=>"texas", "controller"=>"api/search", "action"=>"index"}
+Completed 200 OK in 793ms (Views: 95.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=texas" for ::1 at 2015-02-26 13:49:03 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"texas"}
+=------{"q"=>"texas", "controller"=>"api/search", "action"=>"index"}
+Completed 200 OK in 800ms (Views: 84.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=texas" for ::1 at 2015-02-26 13:49:08 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"texas"}
+=------{"q"=>"texas", "controller"=>"api/search", "action"=>"index"}
+Completed 200 OK in 763ms (Views: 81.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=texas" for ::1 at 2015-02-26 13:55:50 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"texas"}
+=------{"q"=>"texas", "controller"=>"api/search", "action"=>"index"}
+Completed 500 Internal Server Error in 2ms
+
+NameError (undefined local variable or method `logger' for Search:Class):
+  app/models/search.rb:26:in `find'
+  app/controllers/api/search_controller.rb:7:in `index'
+
+
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (4.6ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.9ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (55.0ms)
+
+
+Started GET "/api/search?q=texas" for ::1 at 2015-02-26 13:56:01 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"texas"}
+=------{"q"=>"texas", "controller"=>"api/search", "action"=>"index"}
+http://octopart.com/api/v3/parts/search?apikey=11b3fd4e&limit%3D10%26q%3Dtexas%26start%3D0=Search
+Completed 200 OK in 4044ms (Views: 73.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=texas" for ::1 at 2015-02-26 14:07:16 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"texas"}
+=------{"q"=>"texas", "controller"=>"api/search", "action"=>"index"}
+Completed 200 OK in 906ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search" for ::1 at 2015-02-26 14:07:21 -0500
+Processing by Api::SearchController#index as HTML
+=------{"controller"=>"api/search", "action"=>"index"}
+Completed 200 OK in 671ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search" for ::1 at 2015-02-26 14:08:09 -0500
+Processing by Api::SearchController#index as HTML
+=------{"controller"=>"api/search", "action"=>"index"}
+Completed 200 OK in 516ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search" for ::1 at 2015-02-26 14:08:30 -0500
+Processing by Api::SearchController#index as HTML
+=------{"controller"=>"api/search", "action"=>"index"}
+Completed 200 OK in 825ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search" for ::1 at 2015-02-26 14:08:36 -0500
+Processing by Api::SearchController#index as HTML
+=------{"controller"=>"api/search", "action"=>"index"}
+Completed 200 OK in 698ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search" for ::1 at 2015-02-26 14:09:02 -0500
+Processing by Api::SearchController#index as HTML
+=------{"controller"=>"api/search", "action"=>"index"}
+Completed 200 OK in 2200ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=texas" for ::1 at 2015-02-26 14:11:06 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"texas"}
+=------{"q"=>"texas", "controller"=>"api/search", "action"=>"index"}
+Completed 200 OK in 1283ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=hello" for ::1 at 2015-02-26 14:11:13 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"hello"}
+=------{"q"=>"hello", "controller"=>"api/search", "action"=>"index"}
+Completed 200 OK in 543ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:15:04 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 640ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:15:47 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 818ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=hello" for ::1 at 2015-02-26 14:16:01 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"hello"}
+Completed 200 OK in 277ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=hello" for ::1 at 2015-02-26 14:16:08 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"hello"}
+Completed 200 OK in 954ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=hello" for ::1 at 2015-02-26 14:16:17 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"hello"}
+Completed 500 Internal Server Error in 371ms
+
+TypeError (no implicit conversion of Symbol into Integer):
+  app/models/search.rb:47:in `[]'
+  app/models/search.rb:47:in `get'
+  app/controllers/api/search_controller.rb:6:in `index'
+
+
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (9.5ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.7ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.7ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (75.0ms)
+
+
+Started GET "/api/search?q=hello" for ::1 at 2015-02-26 14:16:24 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"hello"}
+Completed 200 OK in 417ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=hello" for ::1 at 2015-02-26 14:16:31 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"hello"}
+Completed 500 Internal Server Error in 193ms
+
+NoMethodError (undefined method `results' for #<String:0x007fd1f6a4e8c0>):
+  app/models/search.rb:47:in `get'
+  app/controllers/api/search_controller.rb:6:in `index'
+
+
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (9.6ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.8ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (2.0ms)
+  Rendered /Users/ankitgupta/.rvm/gems/ruby-2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (77.6ms)
+
+
+Started GET "/api/search?q=hello" for ::1 at 2015-02-26 14:16:35 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"hello"}
+Completed 200 OK in 648ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:17:20 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 721ms (Views: 14.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:17:50 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 1002ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=hello" for ::1 at 2015-02-26 14:18:43 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"hello"}
+Completed 200 OK in 291ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=hello" for ::1 at 2015-02-26 14:18:52 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"hello"}
+Completed 200 OK in 578ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:19:04 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 698ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:20:01 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 690ms (Views: 37.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:22:00 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 1503ms (Views: 43.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:24:33 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 484ms (Views: 38.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:24:37 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 651ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search" for ::1 at 2015-02-26 14:25:02 -0500
+Processing by Api::SearchController#index as HTML
+Completed 200 OK in 1266ms (Views: 110.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:25:58 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 689ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:26:10 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 773ms (Views: 36.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:27:06 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 849ms (Views: 36.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:27:09 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 596ms (Views: 48.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:28:47 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 671ms (Views: 40.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:29:09 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 788ms (Views: 34.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=ne555" for ::1 at 2015-02-26 14:33:11 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"ne555"}
+Completed 200 OK in 1559ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:36:29 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 570ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:36:55 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 609ms (Views: 44.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:38:09 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 535ms (Views: 34.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:40:37 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 904ms (Views: 40.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:44:24 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 1143ms (Views: 47.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:45:16 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 1333ms (Views: 39.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:45:49 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 2523ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:46:13 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 678ms (Views: 34.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:47:31 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 792ms (Views: 37.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:48:27 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 734ms (Views: 33.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:50:27 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 1059ms (Views: 39.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:51:21 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 1352ms (Views: 37.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:53:36 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 1751ms (Views: 43.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:54:00 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 954ms (Views: 35.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:54:51 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 554ms (Views: 35.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:55:06 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 618ms (Views: 46.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:55:40 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 1074ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:56:07 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 522ms (Views: 36.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:56:28 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 1101ms (Views: 36.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:57:12 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 1333ms (Views: 34.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=NE555" for 127.0.0.1 at 2015-02-26 14:58:01 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"NE555"}
+Completed 200 OK in 977ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/search?q=texas" for 127.0.0.1 at 2015-02-26 14:59:56 -0500
+Processing by Api::SearchController#index as HTML
+  Parameters: {"q"=>"texas"}
+Completed 200 OK in 1159ms (Views: 79.1ms | ActiveRecord: 0.0ms)
